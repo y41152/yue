@@ -320,6 +320,16 @@
 			<artifactId>spring-data-redis</artifactId>
 			<version>1.7.1.RELEASE</version>
 		</dependency>
+		
+		
+			<!-- sun.misc.BASE64Decoder -->
+		<dependency>
+			<groupId>sun-misc</groupId>
+			<artifactId>sun-misc</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/sun.misc.BASE64Decoder.jar</systemPath>
+		</dependency>
   </dependencies>
   <build>
   

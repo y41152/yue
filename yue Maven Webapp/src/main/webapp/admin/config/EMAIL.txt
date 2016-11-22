@@ -1,0 +1,1 @@
+smtp.rigis.com.cn,25,zhoup@rigis.com.cn,zhoulei118
